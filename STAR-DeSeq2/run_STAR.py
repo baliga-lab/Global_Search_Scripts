@@ -1,6 +1,6 @@
 #############################################################
-##### RNASeq Analysis Pipeline with STAR            #####
-##### Last update: 05/18/2020 Serdar Turkarslan         #####
+##### RNASeq Analysis Pipeline with STAR                #####
+##### Last update: 01/13/2022 Serdar Turkarslan         #####
 ##### Institute for Systems Biology                     #####
 ############################################################
 
